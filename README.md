@@ -8,9 +8,6 @@
 - Add a ".zip"
 - Click on "Finish"
 
-###  	Kerberos_HDFS_List_0.1.zip
-This job list the content of a folder with the kerberos authentification
-
 ###  	Kerberos_HDFS_Write_0.1.zip
 This job write a file on hdfs with the kerberos authentification
 
